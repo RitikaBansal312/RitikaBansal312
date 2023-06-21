@@ -2,7 +2,7 @@
 <h2 align="left">A tech enthusiast</h2>
 <h3 align="center>I’m currently working on Flutter
 <p align="center">
-<h3 align="left>Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/ritika-bansal-45a265178/"><img src="https://img.icons8.com/color/28/000000/linkedin.png"></a>
 </p>
 
