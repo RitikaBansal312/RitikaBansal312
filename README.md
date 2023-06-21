@@ -1,6 +1,8 @@
-<h4 align="center">Hi there 👋</h4>
+<h1 align="center">Hi 👋, I'm Ritika Bansal</h1>
 <h2 align="center">A tech enthusiast</h2>
+<h3 align="center>I’m currently working on Flutter
 <p align="center">
+<h3 align="left>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/ritika-bansal-45a265178/"><img src="https://img.icons8.com/color/28/000000/linkedin.png"></a>
 </p>
 
