@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ritika Bansal</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">, I'm Ritika Bansal</h1>
 <p align="center">
 <h4 align="left">A tech enthusiast</h4>
 <h4 align="left">I’m currently working on Flutter Android and iOS App Development</h4>
