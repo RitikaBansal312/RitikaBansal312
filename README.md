@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ritika Bansal</h1>
 <h2 align="left">A tech enthusiast</h2>
-<h3 align="center>I’m currently working on Flutter
+
+<h3 align="center>I’m currently working on Flutter Android and iOS App Development</h3>
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/ritika-bansal-45a265178/"><img src="https://img.icons8.com/color/28/000000/linkedin.png"></a>
