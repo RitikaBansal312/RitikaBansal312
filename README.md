@@ -1,4 +1,4 @@
-### Hi there 👋
+<h4 align="center">Hi there 👋</h4>
 <h2 align="center">A tech enthusiast</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/ritika-bansal-45a265178/"><img src="https://img.icons8.com/color/28/000000/linkedin.png"></a>
