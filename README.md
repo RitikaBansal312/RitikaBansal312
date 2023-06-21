@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ritika Bansal</h1>
-<h2 align="center">A tech enthusiast</h2>
+<h1 align="left">Hi 👋, I'm Ritika Bansal</h1>
+<h2 align="left">A tech enthusiast</h2>
 <h3 align="center>I’m currently working on Flutter
 <p align="center">
 <h3 align="left>Connect with me:</h3>
