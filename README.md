@@ -1,5 +1,8 @@
 ### Hi there 👋
-### I am Ritika Bansal
+<h2 align="center">A tech enthusiast</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/ritika-bansal-45a265178/"><img src="https://img.icons8.com/color/28/000000/linkedin.png"></a>
+</p>
 
 <!--
 **RitikaBansal312/RitikaBansal312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
