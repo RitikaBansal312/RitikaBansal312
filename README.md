@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/ritika-bansal-45a265178/"><img src="https://img.icons8.com/color/28/000000/linkedin.png"></a>
 <a href="https://stackoverflow.com/users/16798646/ritika-bansal"><img src="https://img.icons8.com/color/28/000000/stackoverflow.png"></a>
 <a href="https://ritikabansal312.blogspot.com/"><img src="https://img.icons8.com/color/28/000000/blogger.png"></a>
-<a href="https://www.quora.com/profile/Ritika-Bansal-204"><img src="https://img.icons8.com/color/28/000000/quora.com.png"></a>
+<a href="https://www.quora.com/profile/Ritika-Bansal-204"><img src="https://icon-icons.com/icon/quora-logo/169811"></a>
 </p>
 
 #### Technologies and Tools
