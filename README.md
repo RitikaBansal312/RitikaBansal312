@@ -4,6 +4,7 @@
 <h4 align="left">I’m currently working on Flutter Android and iOS App Development</h4>
 <h4 align="left">Connect with me 💬</h4>
 <a href="https://www.linkedin.com/in/ritika-bansal-45a265178/"><img src="https://img.icons8.com/color/28/000000/linkedin.png"></a>
+<a href="https://stackoverflow.com/users/16798646/ritika-bansal"><img src=https://stackoverflow.com/users/16798646/ritika-bansal"></a>
 </p>
 
 #### Technologies and Tools
