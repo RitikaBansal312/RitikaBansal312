@@ -12,7 +12,7 @@
 #### Technologies and Tools
 
 <p>
-<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rest API's-%23ED8B00.svg?&style=for-the-badge&logo=API&logoColor=white"/>
 <img src ="https://img.shields.io/badge/android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/css3-%23ED8B00.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23FA7343.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket-%23000000.svg?&style=for-the-badge&logo=Socket&logoColor=white"/>
+<img src="https://img.shields.io/badge/OneSignal-%23000000.svg?&style=for-the-badge&logo=Socket&logoColor=white"/>
 </p>
 
 Thanks for checking out my profile.
