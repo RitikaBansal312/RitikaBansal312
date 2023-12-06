@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/css3-%23ED8B00.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23FA7343.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket-%23000000.svg?&style=for-the-badge&logo=Socket&logoColor=white"/>
-<img src="https://img.shields.io/badge/OneSignal Notification-%23E34F26.svg?&style=for-the-badge&logo=OneSignal&logoColor=white"/>
+<img src="https://img.shields.io/badge/OneSignal Notification-%23E34F26.svg?&style=for-the-badge&logo=OneSignal Push Notification&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stripe Payment Gateway-%23039BE5.svg?&style=for-the-badge&logo=Stripe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Maps%20-%23ED8B00.svg?&style=for-the-badge&logo=Google Maps&logoColor=white"/>
 </p>
