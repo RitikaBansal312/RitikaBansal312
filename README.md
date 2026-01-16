@@ -7,7 +7,7 @@
 <a href="https://stackoverflow.com/users/16798646/ritika-bansal"><img src="https://img.icons8.com/color/28/000000/stackoverflow.png"></a>
 <a href="https://ritikabansal312.blogspot.com/"><img src="https://img.icons8.com/color/28/000000/blogger.png"></a>
 <a href="https://medium.com/@ritikabansal312"><img src="https://img.icons8.com/color/28/000000/medium.png"></a>
-<a href="https://dinq.me/ritikabansal"><img src="https://ad.yiban.io/operate/tool/1552"></a>
+<a href="https://dinq.me/ritikabansal"><img src="https://img.icons8.com/color/28/000000/dinq.me.png"></a>
 </p>
 
 #### Technologies and Tools
